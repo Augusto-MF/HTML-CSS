@@ -92,6 +92,7 @@ main section#carta {
 }
 
 main div.conteudo {
+    display: inline-block;
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
     padding:10px;
@@ -106,7 +107,7 @@ main div.conteudo > p {
 
 main section p {
     text-align: left;
-    font-size: 1.5em;
+    font-size: 1.4em;
     margin-bottom: 40px;
     margin-top: 30px;
 }
@@ -126,4 +127,4 @@ footer a {
 
 footer a:hover {
     text-decoration: underline;
-}
+} 
