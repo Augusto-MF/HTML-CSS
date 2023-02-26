@@ -11,7 +11,7 @@
 * {
     padding: 0px;
     margin: 0px;
-    max-width: 550px;
+    max-width: 650px;
     margin:auto;
 }
 
@@ -75,7 +75,7 @@ main section#joaninha {
     background-attachment: fixed;
     background-position: center right;
     background-color: #012000;
-    box-shadow: inset 2px 3px 5px rgba(0, 0, 0, 0.473);
+    box-shadow: inset 4px 8px 10px rgba(0, 0, 0, 0.473);
 }
 
 main section#joaninha > p {
@@ -88,7 +88,7 @@ main section#carta {
     background-attachment: fixed;
     background-position: center right;
     background-color: #99A388;
-    box-shadow: inset 2px 3px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: inset 4px 8px 10px rgba(0, 0, 0, 0.5);
 }
 
 main div.conteudo {
@@ -108,8 +108,8 @@ main div.conteudo > p {
 main section p {
     text-align: left;
     font-size: 1.4em;
-    margin-bottom: 40px;
-    margin-top: 30px;
+    padding-bottom: 20px;
+    padding-top: 15px;
 }
 
 
